@@ -3,7 +3,7 @@
 An interactive data science dashboard built with **Streamlit** and **Plotly** to visualize, segment, and track customer churn dynamics across European retail banking portfolios.
 
 ## 💻 Live Dashboard
-[🔗 Click here to view the live interactive application](https://european-bank-churn-dashboard-ebuqzdahp8wdecbupd4za6.streamlit.app)
+[🔗 Click here to view the live interactive application](https://retail-banking-segmentation-and-churn-analytics-app.streamlit.app)
 
 ---
 
